@@ -6,3 +6,11 @@ C:\Users\STUDENTS-STEM-18\Desktop\11A - 18\MedianOfTwoSortedArrays\MedianOfTwoSo
 C:\Users\STUDENTS-STEM-18\Desktop\11A - 18\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csproj.CoreCompileInputs.cache
 C:\Users\STUDENTS-STEM-18\Desktop\11A - 18\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.exe
 C:\Users\STUDENTS-STEM-18\Desktop\11A - 18\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.pdb
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.exe
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.pdb
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.exe.config
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.exe
+C:\Users\STUDENTS-1212-3\Desktop\12A\Nikola Valkov\FindMedianOfTwoSortedArrays\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.pdb
